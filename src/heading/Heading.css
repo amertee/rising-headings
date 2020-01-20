@@ -1,0 +1,16 @@
+article {
+  font-size: calc(8px + 2vmin);
+  text-align: left;
+  /* border: 3px solid #ffffff; */
+  margin-top: 30px;
+  padding: calc(10px + 2vmin);
+  background-color: #505766;
+  -webkit-box-shadow: 10px 14px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 14px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 10px 14px 5px 0px rgba(0,0,0,0.75);
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
